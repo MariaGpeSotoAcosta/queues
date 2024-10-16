@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1727484008 source:c:\users\pinki\onedrive\desktop\programas c++ gdl tc1031\27sep\main.cpp
+	<iostream>
+	"Queue.h"
+
+1727483635 c:\users\pinki\onedrive\desktop\programas c++ gdl tc1031\27sep\include\queue.h
+
+1727483928 source:c:\users\pinki\onedrive\desktop\programas c++ gdl tc1031\27sep\src\queue.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<string>
+	"Queue.h"
+
